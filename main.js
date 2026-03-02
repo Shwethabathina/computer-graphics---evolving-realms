@@ -71,7 +71,7 @@ hud.innerHTML = `
     background:rgba(255,255,255,0.10); color:rgba(255,255,255,0.92);
     padding:7px 10px; border-radius:10px; cursor:pointer;
     font-weight:600; margin-bottom:8px;
-  ">☄️ Meteor Strike</button>
+  "> Meteor Strike</button>
 
   <div>Space: <b>Random strike</b></div>
   <div>R: <b>Reset craters</b></div>
@@ -172,7 +172,7 @@ const WORLD = {
     burstSeconds: 2.0,
   },
 
-  // ✅ NEW: cute moon settings
+  
   moonBall: {
     radius: 7.0,
     distanceMul: 0.98, // relative to sunRadius
