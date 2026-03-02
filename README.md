@@ -119,18 +119,6 @@ Follow these steps to run the project.
 
 ---
 
-## Step 1 – Install Node.js
+## npm install
+## npm run dev
 
-Install Node.js from:
-
-https://nodejs.org
-
-Recommended version:
-
-Node 18 or higher
-
-Verify installation:
-
-```bash
-node -v
-npm -v
