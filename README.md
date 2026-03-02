@@ -1,5 +1,5 @@
 # Evolving Realms  
-**Assignment 3 – MVP Implementation (Three.js World Builder)**
+**Assignment 3 – MVP Implementation**
 
 Evolving Realms is a real-time procedural world prototype built using Three.js. This project demonstrates the core graphics pillars required for Assignment 3, including procedural terrain generation, dynamic lighting, shader-based water, instanced vegetation animation, and interactive meteor impacts that permanently modify the environment.
 
